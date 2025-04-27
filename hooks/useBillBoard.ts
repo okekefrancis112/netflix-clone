@@ -13,4 +13,5 @@ const useBillBoard = () => {
     isLoading,
   };
 };
+
 export default useBillBoard;
